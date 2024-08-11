@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Kafka-Publisher
+server:
+  port: 8181
